@@ -24,7 +24,3 @@
 - **Systems:** sandboxing, ACLs and tokens, network filtering, crash recovery
 - **Agents:** MCP servers and clients, approval flows, tool bridges for Codex and Claude Code
 - **Product:** Svelte web UIs, installers that get out of the way, test-first development
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sep-Fading&layout=compact&hide_border=true" alt="Most used languages" height="150">
-</p>
