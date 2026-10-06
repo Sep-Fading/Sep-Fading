@@ -29,7 +29,3 @@
 - **Games and graphics:** Unity multiplayer games in C#, a C game engine, OpenGL in C++, shaders, performance work on culling and multithreading
 - **Product and web:** Svelte and TypeScript UIs, Python backends, installers that get out of the way, test-first development
 - **Linux and tooling:** Arch, Hyprland and Wayland setups, Neovim in Lua, shell scripting, a Qt/QML desktop shell
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sep-Fading&layout=compact&hide_border=true" alt="Most used languages" height="150">
-</p>
