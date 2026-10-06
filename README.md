@@ -28,3 +28,7 @@
 ### How I work
 
 Test first. Documented API over clever trick. Fail closed. Leave a written trail of what was verified.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sep-Fading&layout=compact&hide_border=true" alt="Most used languages" height="150">
+</p>
