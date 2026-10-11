@@ -20,7 +20,7 @@
 
 ### Now building
 
-**[MiniClaw](https://github.com/Sep-Fading/miniclaw-windows)**: a desktop runtime that lets Codex and Claude Code run commands, edit files and use MCP tools inside an OS sandbox, on macOS and Windows. The Windows port is built on a least-privileged AppContainer, a network filter that allows only approved hosts, crash-safe permission cleanup, and a patched Git and private Node that run inside the sandbox.
+**[MiniClaw](https://github.com/Sep-Fading/miniclaw-windows)**: a desktop runtime that lets Codex and Claude Code talk to each other and orchestrate to run commands, edit files and use MCP tools inside an OS sandbox, on macOS and Windows. The Windows port is built on a least-privileged AppContainer, a network filter that allows only approved hosts, crash-safe permission cleanup, and a patched Git and private Node that run inside the sandbox, currently I'm using it to create massive automation chains for game development and testing!
 
 ### Skills
 
