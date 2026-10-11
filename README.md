@@ -27,5 +27,5 @@
 - **Systems:** sandboxing, ACLs and tokens, network filtering, crash recovery
 - **Agents:** MCP servers and clients, approval flows, tool bridges for Codex and Claude Code
 - **Games and graphics:** Unity multiplayer games in C#, a C game engine, OpenGL in C++, shaders, performance work on culling and multithreading
-- **Product and web:** Svelte and TypeScript UIs, Python backends, installers that get out of the way, test-first development
+- **Product and web:** Svelte and TypeScript UIs, Python backends and installation wizards that reduce headache
 - **Linux and tooling:** Arch, Hyprland and Wayland setups, Neovim in Lua, shell scripting, a Qt/QML desktop shell
